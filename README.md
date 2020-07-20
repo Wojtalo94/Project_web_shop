@@ -6,6 +6,6 @@ At the end of the course at Software Development Academy, together with the grou
 
 1) We started the project by evaluating the test documentation and reporting its errors.
 2) Then we created test cases based only on the test documentation. (We haven't got the link to the store page yet)
-3) Then we made our own test cases. When the error appeared, we reported it.
+3) Then we made our own test cases on web site. When the error appeared, we reported it.
 4) Finally, we performed exploratory tests of those website functionalities that were not included in the test documentation.
 
